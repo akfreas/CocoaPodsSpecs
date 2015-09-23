@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = "ContentfulPersistence"
   s.version          = "0.2.1.0"
   s.summary          = "Simplified persistence for the Contentful iOS SDK."
-  s.homepage         = "https://github.com/contentful/contentful-persistence.objc"
+  s.homepage         = "https://github.com/akfreas/contentful-persistence.objc"
   s.license          = 'MIT'
   s.author           = { "Boris Bügling" => "boris@contentful.com" }
   s.source           = { :git => "https://github.com/contentful/contentful-persistence.objc.git",
