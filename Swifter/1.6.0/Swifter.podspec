@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "Swifter"
-  s.version          = "1.6.0"
+  s.version          = "1.6"
   s.summary          = "A short description of Swifter."
 
 # This description is used to generate tags and improve search results.
