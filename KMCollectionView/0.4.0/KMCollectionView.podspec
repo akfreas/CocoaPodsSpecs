@@ -28,6 +28,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'KMCollectionView/Classes/**/*'
   s.frameworks = 'UIKit','Foundation'
-  s.dependency 'PureLayout', '~> 2.0'
+  s.dependency 'PureLayout', '~> 3.0'
   s.dependency 'BlocksKit', '~> 2.2'
 end
