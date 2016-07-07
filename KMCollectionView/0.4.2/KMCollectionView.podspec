@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Alexander Freas" => "akfreas@gmail.com" }
-  s.source           = { :git => "https://github.com/akfreas/KMCollectionView.git" }
+  s.source           = { :git => "https://github.com/akfreas/KMCollectionView.git" :tag => "0.4.2"}
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
